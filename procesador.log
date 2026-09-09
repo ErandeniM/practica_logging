@@ -1,0 +1,93 @@
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones main
+INFO: Inicio de la aplicacion ProcesadorCalificaciones
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones main
+CONFIG: Archivo configurado como entrada: C:\Users\la_er\OneDrive\Documentos\UNISON\SEMESTRE 3 ISI\Desarrollo de sistemas III\practica_logging-master\practica_logging-master\calificaciones.txt
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Archivo abierto correctamente: C:\Users\la_er\OneDrive\Documentos\UNISON\SEMESTRE 3 ISI\Desarrollo de sistemas III\practica_logging-master\practica_logging-master\calificaciones.txt
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 1: 85
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 85
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 2: 92
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 92
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 3: 78
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 78
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 4: 100
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 100
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 5: abc
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+WARNING: Dato no numerico en la linea 5: abc
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 6: 45
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 45
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 7: -10
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+WARNING: Valor fuera de rango en la linea 7: -10
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 8: 67
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 67
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 9: 120
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+WARNING: Valor fuera de rango en la linea 9: 120
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 10: 90
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 90
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 11: 73
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 73
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 12: ochenta
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+WARNING: Dato no numerico en la linea 12: ochenta
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 13: 88
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 88
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 14: 0
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 0
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINER: Procesando linea 15: 59
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+FINE: Calificacion valida: 59
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+INFO: Registros procesados: 15
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+INFO: Registros validos: 11
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+INFO: Registros invalidos: 4
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+INFO: Promedio calculado: 70.63636363636364
+sept 09, 2026 4:28:20 P. M. mx.unison.ProcesadorCalificaciones main
+INFO: Fin del procesamiento
+sept 09, 2026 4:31:18 P. M. mx.unison.ProcesadorCalificaciones main
+INFO: Inicio de la aplicacion ProcesadorCalificaciones
+sept 09, 2026 4:31:18 P. M. mx.unison.ProcesadorCalificaciones main
+CONFIG: Archivo configurado como entrada: inexistente.txt
+sept 09, 2026 4:31:18 P. M. mx.unison.ProcesadorCalificaciones procesarArchivo
+SEVERE: Error al procesar el archivo inexistente.txt
+java.io.FileNotFoundException: inexistente.txt (El sistema no puede encontrar el archivo especificado)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at mx.unison.ProcesadorCalificaciones.procesarArchivo(ProcesadorCalificaciones.java:43)
+	at mx.unison.ProcesadorCalificaciones.main(ProcesadorCalificaciones.java:31)
+
+sept 09, 2026 4:31:18 P. M. mx.unison.ProcesadorCalificaciones main
+INFO: Fin del procesamiento
